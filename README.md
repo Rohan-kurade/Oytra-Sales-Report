@@ -20,7 +20,7 @@ Sales Fluctuations: The analysis highlighted key days where sales increased or d
 Improvement Strategies: I suggested several strategies, including targeted promotions, inventory management improvements, and customer engagement techniques to boost sales.
 
 Tools Used:-
-Excel for data analysis and mapping
+Excel for data analysis and mapping &
 Power BI for Dashboard Creation
 
 Conclusion:-
